@@ -9,4 +9,4 @@ const diff = (set1, set2) => {
     return newSet;
     };
     
-    export default difference;
+    export default diff;
